@@ -1,0 +1,15 @@
+/* .resort{
+    margin-top: 30px;
+    margin-bottom: 30px;
+   
+} */
+.resort-image{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
+
+.resort-image:hover{
+    height: 320px;
+    width: 320px;
+}
